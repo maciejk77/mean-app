@@ -1,1 +1,1 @@
-MEAN stack one page app
+**MEAN** stack one page app
